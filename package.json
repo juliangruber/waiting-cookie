@@ -1,7 +1,7 @@
 {
   "name": "waiting-cookie",
-  "description": "Cookie backend for waiting-cache",
-  "version": "0.0.0",
+  "description": "Cookie store for waiting-cache",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/juliangruber/waiting-cookie.git"

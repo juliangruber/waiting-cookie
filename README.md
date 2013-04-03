@@ -1,7 +1,7 @@
 
 # waiting-cookie
 
-Cookie backend for
+Cookie store for
 [waiting-cache](https://github.com/juliangruber/waiting-cache).
 
 ## Usage
@@ -10,7 +10,7 @@ Cookie backend for
 var Cache  = require('waiting-cache');
 var cookie = require('waiting-cookie');
 
-var cache = new Cache({ backend : cookie });
+var cache = new Cache({ store : cookie });
 ```
 
 ## License
