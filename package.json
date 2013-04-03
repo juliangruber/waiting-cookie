@@ -1,0 +1,26 @@
+{
+  "name": "waiting-cookie",
+  "description": "Cookie backend for waiting-cache",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/waiting-cookie.git"
+  },
+  "homepage": "https://github.com/juliangruber/waiting-cookie",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-cutter": "0.0.0"
+  },
+  "keywords": [
+    "cookie",
+    "cache",
+    "waiting",
+    "browser"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
