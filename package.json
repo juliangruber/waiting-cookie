@@ -9,7 +9,7 @@
   "homepage": "https://github.com/juliangruber/waiting-cookie",
   "main": "index.js",
   "dependencies": {
-    "cookie-cutter": "0.0.0"
+    "cookie-cutter": "0.2.0"
   },
   "keywords": [
     "cookie",
